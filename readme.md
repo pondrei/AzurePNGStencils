@@ -1,2 +1,3 @@
-NOTE: Clone from https://github.com/azurekid/Azure-Stencils
-Azure stencils in PNG format. You can use it with any any tool of your choice
+<h1>Azure stencils in PNG format<h1>
+  
+NOTE: Cloned from https://github.com/azurekid/Azure-Stencils
